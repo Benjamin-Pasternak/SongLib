@@ -1,13 +1,7 @@
 /*
  * @Parth Shah
- * @netID: prs117
- * @RUID: 172005370
- * @CS213 Section 03
- * @Group 87
  * 
  * @Benjamin Pasternak
- * @netID: bp443
- * @Group 87
  * V3
  */
 
